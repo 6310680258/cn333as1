@@ -12,4 +12,4 @@ Android App : Number Guessing Game
 4. ระบบสามารถระบุจำนวนครั้งที่ผู้เล่นทำการทาย และจำนวนครั้งทั้งหมดที่ทำการทายก่อนทายถูก
 5. ระบบสามารถระบุช่วงของตัวเลขที่เป็นคำตอบหลังจากเล่นไปแล้วได้
 
-demonstrating using video : https://youtu.be/9HUZkhx8_Ik
+demonstrative using video : https://youtu.be/9HUZkhx8_Ik
